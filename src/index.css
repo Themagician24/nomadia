@@ -20,7 +20,7 @@
      --black-color:#000;
      --white-color:#fff;
 
-
+     --lora-font:"lora",serif;
      --playfair-font: "Playfair", serif;
      --Nunito-font: "Nunito", sans-serif;
 
@@ -28,3 +28,86 @@
      --transition-slow: .6s
 
 }
+
+html,
+body {
+     overflow-x: hidden;
+}
+
+.btn {
+     background-color:var(--primary-color) !important;
+     color: var(--white-color) !important;
+     width: 150px !important;
+     padding: 12px !important;
+     margin:0;
+}
+
+
+                 /* COULEUR SUR LES BUTTONS EN GROS BADGE */
+.badge {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     width: 25px;
+     height: 25px;
+     font-size: 14px; /* Tu peux ajuster selon ton besoin */
+     line-height: 1; /* Important pour éviter un décalage vertical */
+     border-radius: 50%; /* arrondi = badge circulaire, optionnel */
+     background-color: var(--primary-color);
+     color: var(--white-color);
+     font-weight: bold;
+   }
+   
+   
+
+
+                         /* NAVABAR */
+
+.navbar-brand h3 {
+     font-weight: 800;
+     text-transform: uppercase;
+     font-family: var(--playfair-font)
+}
+
+.nav-link {
+     font-weight: 700;
+     transition:var(--transition-regular);
+     text-transform: uppercase;
+     font-family: var(--Nunito-font);
+}
+
+.nav-link:hover {
+     color: var(--primary-color);
+     
+}  
+
+
+
+                  /* FORMULAIRE */
+
+.sign-up-title: {
+     font-family: var(--lora-font);
+     font-size: 1.5em;
+
+}
+
+.btn-signup {
+     background-color: red !important;
+     width: 100% !important;
+     font-size: 1.5rem;
+}
+
+.btn-signup:hover {
+     background-color: green !important;
+}
+
+.terms a {
+     color: blue !important;
+}
+
+.close-modal {
+     top: 5% !important;
+     right: 5% !important;
+
+}
+
