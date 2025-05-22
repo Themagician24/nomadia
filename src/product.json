@@ -111,8 +111,8 @@
 
      {
           "id": 13,
-          "image":"/images/furniture-12.png" ,
-          "secondImage":"/images/furniture-12.png",
+          "image":"/images/furniture-13.png" ,
+          "secondImage":"/images/furniture-13.png",
           "name":"Modern White Bed",
           "ofeerPrice":18990,
           "price":22990
@@ -120,8 +120,8 @@
 
       {
           "id": 14,
-          "image":"/images/furniture-12.png" ,
-          "secondImage":"/images/furniture-12.png",
+          "image":"/images/furniture-14.png" ,
+          "secondImage":"/images/furniture-14.png",
           "name":"Modern White Bed",
           "ofeerPrice":18990,
           "price":22990
@@ -129,8 +129,8 @@
 
       {
           "id": 15,
-          "image":"/images/furniture-12.png" ,
-          "secondImage":"/images/furniture-12.png",
+          "image":"/images/furniture-15.png" ,
+          "secondImage":"/images/furniture-15.png",
           "name":"Modern White Bed",
           "ofeerPrice":18990,
           "price":22990
@@ -138,8 +138,8 @@
 
       {
           "id": 16,
-          "image":"/images/furniture-12.png" ,
-          "secondImage":"/images/furniture-12.png",
+          "image":"/images/furniture-16.png" ,
+          "secondImage":"/images/furniture-16.png",
           "name":"Modern White Bed",
           "ofeerPrice":18990,
           "price":22990
@@ -148,8 +148,8 @@
 
       {
           "id": 17,
-          "image":"/images/furniture-12.png" ,
-          "secondImage":"/images/furniture-12.png",
+          "image":"/images/furniture-17.png" ,
+          "secondImage":"/images/furniture-17.png",
           "name":"Modern White Bed",
           "ofeerPrice":18990,
           "price":22990
@@ -157,8 +157,8 @@
 
       {
           "id": 18,
-          "image":"/images/furniture-12.png" ,
-          "secondImage":"/images/furniture-12.png",
+          "image":"/images/furniture-18.png" ,
+          "secondImage":"/images/furniture-18.png",
           "name":"Modern White Bed",
           "ofeerPrice":18990,
           "price":22990
@@ -166,8 +166,8 @@
 
       {
           "id": 19,
-          "image":"/images/furniture-12.png" ,
-          "secondImage":"/images/furniture-12.png",
+          "image":"/images/furniture-19.png" ,
+          "secondImage":"/images/furniture-19.png",
           "name":"Modern White Bed",
           "ofeerPrice":18990,
           "price":22990
@@ -175,8 +175,8 @@
 
       {
           "id": 20,
-          "image":"/images/furniture-12.png" ,
-          "secondImage":"/images/furniture-12.png",
+          "image":"/images/furniture-20.png" ,
+          "secondImage":"/images/furniture-20.png",
           "name":"Modern White Bed",
           "ofeerPrice":18990,
           "price":22990
@@ -184,8 +184,8 @@
 
       {
           "id": 21,
-          "image":"/images/furniture-12.png" ,
-          "secondImage":"/images/furniture-12.png",
+          "image":"/images/furniture-21.png" ,
+          "secondImage":"/images/furniture-21.png",
           "name":"Modern White Bed",
           "ofeerPrice":18990,
           "price":22990
@@ -193,8 +193,8 @@
 
       {
           "id": 22,
-          "image":"/images/furniture-12.png" ,
-          "secondImage":"/images/furniture-12.png",
+          "image":"/images/furniture-22.png" ,
+          "secondImage":"/images/furniture-22.png",
           "name":"Modern White Bed",
           "ofeerPrice":18990,
           "price":22990
@@ -202,8 +202,8 @@
 
       {
           "id": 23,
-          "image":"/images/furniture-12.png" ,
-          "secondImage":"/images/furniture-12.png",
+          "image":"/images/furniture-23.png" ,
+          "secondImage":"/images/furniture-23.png",
           "name":"Modern White Bed",
           "ofeerPrice":18990,
           "price":22990
@@ -211,22 +211,14 @@
 
       {
           "id": 24,
-          "image":"/images/furniture-12.png" ,
-          "secondImage":"/images/furniture-12.png",
-          "name":"Modern White Bed",
-          "ofeerPrice":18990,
-          "price":22990
-      },
-
-      {
-          "id": 25,
-          "image":"/images/furniture-12.png" ,
-          "secondImage":"/images/furniture-12.png",
+          "image":"/images/furniture-24.png" ,
+          "secondImage":"/images/furniture-24.png",
           "name":"Modern White Bed",
           "ofeerPrice":18990,
           "price":22990
       }
 
+   
 
 
 

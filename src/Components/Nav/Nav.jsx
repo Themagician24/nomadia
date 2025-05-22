@@ -162,15 +162,24 @@ const Nav = () => {
                 autoFocus
                 onChange={handleChange}
               />
-              <div className="row">
+              <div className="show-search-product-wrap row">
                 {searchTerm.trim() !== "" ? (
                   filteredProducts.length > 0 ? (
                     filteredProducts.map((product) => (
-                      <div className="col-6 mb-3" key={product.id} onClick={() => handleProductClick(product)} style={{ cursor: 'pointer' }}>
-                        <div className="border p-2 h-100">
+                      <div className="ssp-wrap border mb-2 col-lg-6"
+                       key={product.id} 
+                       onClick={() => handleProductClick(product)}
+                        style={{ cursor: 'pointer' }}>
+
+
+                        <div className="ssp-img">
                           <img src={product.image} alt={product.name} className="img-fluid mb-2" />
-                          <h6>{product.name}</h6>
-                          <p className="small text-muted">{product.description}</p>
+                          
+                        </div>
+
+                        <div className="ssp-info p-2">
+                          <h6 className="ssp-title">{product.name}</h6>
+                          <p className="ssp-price">€{product.price}</p>
                         </div>
                       </div>
                     ))
